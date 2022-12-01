@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Apple Cider",
+    "price": 3.99,
+    "warm": true,
+    "cold": false,
+    "type": "Beverage",
+    "image": "images/apple-cider.jpeg"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "price": 5.49,
+    "warm": true,
+    "cold": false,
+    "type": "Beverage",
+    "image": "images/cafe.jpeg"
+  },
+  {
+    "name": "Chocolate Chunk Cookie",
+    "price": 2.69,
+    "warm": true,
+    "cold": false,
+    "type": "Dessert",
+    "image": "images/cookie.jpeg"
+  },
+  {
+    "name": "Churros con Chocolate",
+    "price": 6.49,
+    "warm": true,
+    "cold": false,
+    "type": "Dessert",
+    "image": "images/churro.jpeg"
+  },
+  {
+    "name": "Cold Brew with Sweet Cream",
+    "price": 4.89,
+    "warm": false,
+    "cold": true,
+    "type": "Beverage",
+    "image": "images/cold-brew.jpeg"
+  },
+  {
+    "name": "Hot Chocolate",
+    "price": 4.19,
+    "warm": true,
+    "cold": false,
+    "type": "Beverage",
+    "image": "images/hot-chocolate.jpeg"
+  },
+  {
+    "name": "Ice Cream Cake",
+    "price": 8.99,
+    "warm": false,
+    "cold": true,
+    "type": "Dessert",
+    "image": "images/ice-cream-cake.jpeg"
+  },
+  {
+    "name": "Ice Cream Sundae",
+    "price": 7.99,
+    "warm": false,
+    "cold": true,
+    "type": "Dessert",
+    "image": "images/ice-cream-sundae.jpeg"
+  },
+  {
+    "name": "Macaron",
+    "price": 2.49,
+    "warm": false,
+    "cold": true,
+    "type": "Dessert",
+    "image": "images/macaron.jpeg"
+  },
+  {
+    "name": "Milk Tea with Boba",
+    "price": 5.99,
+    "warm": false,
+    "cold": true,
+    "type": "Beverage",
+    "image": "images/boba.jpeg"
+  },
+  {
+    "name": "Molten Lava Cake",
+    "price": 5.49,
+    "warm": true,
+    "cold": false,
+    "type": "Dessert",
+    "image": "images/lava-cake.jpeg"
+  },
+  {
+    "name": "Slice of Apple Pie",
+    "price": 4.59,
+    "warm": true,
+    "cold": false,
+    "type": "Dessert",
+    "image": "images/apple-pie.jpeg"
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "price": 5.29,
+    "warm": false,
+    "cold": true,
+    "type": "Beverage",
+    "image": "images/milkshake.jpeg"
+  }
+]
