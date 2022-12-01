@@ -1,5 +1,7 @@
 # Development
 
+Note about submission: My original repository https://github.com/sleepyotter123/develop.git is NOT anonymous (due to contributor activity). My deployed website was deployed from that repository, but this repository was used for submission to maintain anonymity. The code for the two repositories are identical. 
+
 ### Link to Deployed Website
 https://sleepyotter123.github.io/develop/
 
